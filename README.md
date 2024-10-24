@@ -1,5 +1,5 @@
-# Spatial Unity SDK Starter Template
+# Spatial - Breakout Rooms examples
 
-A template to get you started building environments for Spatial.
+Sample Unity project demonstrating how to create servers, or breakout rooms, using Spatial's Creator Toolkit
 
-Read more here: https://docs.spatial.io
+
