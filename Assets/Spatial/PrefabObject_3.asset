@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497bdf9eb0f204b1aa8886835bf4b08e, type: 3}
+  m_Name: PrefabObject_3
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 670feccf20de9e609be9c8fb
+  packageName: Breakout Room 1
+  thumbnail: {fileID: 2800000, guid: e434e6874fdd59e4baa9127f9cf0d46f, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  prefab: {fileID: 6346764750650035163, guid: 01d710323c5041041ab4b33a4d422b04, type: 3}

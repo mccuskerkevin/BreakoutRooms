@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Spatial - Breakout Rooms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|d:\\unity\\spatial - breakout rooms\\assets\\_ab\\scripts\\floatupdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|solutionrelative:assets\\_ab\\scripts\\floatupdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|D:\\Unity\\Spatial - Breakout Rooms\\assets\\_ab\\scripts\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|solutionrelative:assets\\_ab\\scripts\\connectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|D:\\Unity\\Spatial - Breakout Rooms\\assets\\_ab\\scripts\\roomteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|solutionrelative:assets\\_ab\\scripts\\roomteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|D:\\Unity\\Spatial - Breakout Rooms\\assets\\_ab\\scripts\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|solutionrelative:assets\\_ab\\scripts\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|D:\\Unity\\Spatial - Breakout Rooms\\assets\\_ab\\scripts\\roomidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBB9D8C-405E-CE58-7781-B3375335F9B9}|BreakoutRooms.csproj|solutionrelative:assets\\_ab\\scripts\\roomidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloatUpDown.cs",
+              "DocumentMoniker": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\FloatUpDown.cs",
+              "RelativeDocumentMoniker": "Assets\\_AB\\Scripts\\FloatUpDown.cs",
+              "ToolTip": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\FloatUpDown.cs",
+              "RelativeToolTip": "Assets\\_AB\\Scripts\\FloatUpDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:55:06.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\UserManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_AB\\Scripts\\UserManager.cs",
+              "ToolTip": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\UserManager.cs",
+              "RelativeToolTip": "Assets\\_AB\\Scripts\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:48:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomIdentifier.cs",
+              "DocumentMoniker": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\RoomIdentifier.cs",
+              "RelativeDocumentMoniker": "Assets\\_AB\\Scripts\\RoomIdentifier.cs",
+              "ToolTip": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\RoomIdentifier.cs",
+              "RelativeToolTip": "Assets\\_AB\\Scripts\\RoomIdentifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:58:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomTeleporter.cs",
+              "DocumentMoniker": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\RoomTeleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\_AB\\Scripts\\RoomTeleporter.cs",
+              "ToolTip": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\RoomTeleporter.cs",
+              "RelativeToolTip": "Assets\\_AB\\Scripts\\RoomTeleporter.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:33:47.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionHandler.cs",
+              "DocumentMoniker": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\ConnectionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\_AB\\Scripts\\ConnectionHandler.cs",
+              "ToolTip": "D:\\Unity\\Spatial - Breakout Rooms\\Assets\\_AB\\Scripts\\ConnectionHandler.cs",
+              "RelativeToolTip": "Assets\\_AB\\Scripts\\ConnectionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:32:26.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
