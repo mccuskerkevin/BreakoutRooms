@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Disc
-  m_Shader: {fileID: -6465566751694194690, guid: e7e475e6ce62f41e397966d7739a3bfc,
+  m_Shader: {fileID: -6465566751694194690, guid: f2fb55e9157ba024aa0dc7ce1df12ab4,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []

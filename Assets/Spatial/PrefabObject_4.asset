@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PrefabObject_4
   m_EditorClassIdentifier: 
   version: 0
-  sku: 670fecdb20de9e609be9c8fd
+  sku: 
   packageName: Breakout Room 2
   thumbnail: {fileID: 2800000, guid: 7e93ece52ae055f419060af5c3365e19, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
